@@ -1,0 +1,14 @@
+# File description of .sif file
+info:
+  byte_order: 'little'
+
+default_options:
+  str:
+    terminator: "\x00"
+
+fields:
+  - type: 'str'
+    value: "Andor Technology Multi-Channel File\r"
+    name: 'header'
+
+  - 
