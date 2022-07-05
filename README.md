@@ -1,5 +1,10 @@
 # Andor SIF
 
+This package has been merged with [fujiisoup/sif_parser](https://github.com/fujiisoup/sif_parser)
+and will no longer be mainted.
+
+---
+
 Parse `.sif` files from an Andor spectrometer.
 
 > Install with `python -m pip install andor-sif`
